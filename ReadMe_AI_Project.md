@@ -1,4 +1,4 @@
-#Conclusion
+# Conclusion
 
 We have created two files- one comprising the Random Forest approach and the other comprising the Convolutional Neural Network(CNN) approaches. The detailed conclusions for each methodology can be found in their respective files. 
 
